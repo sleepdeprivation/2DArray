@@ -1,0 +1,17 @@
+{
+  "name": "array2d",
+  "version": "1.0.0",
+  "description": "A 2D array in typescript",
+  "main": "2DArray.js",
+  "scripts": {
+    "test": "mocha ./dist/tests/*.js"
+  },
+  "author": "Christian Burke",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.0.1",
+    "@types/mocha": "^2.2.41",
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
